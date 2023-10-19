@@ -1,6 +1,0 @@
-=====# Appycan | Changelog v1.0.8 | Updated Date: 26-12-2020 #=====
-
-1. "add_filter" & "apply_filter" hooks are added in "core-functions.php" file.
-2. "App" folder added.
-3. "Themes", "Plugins" and "Uploads" folder added in "App" folder.
-4. Modified urls and dirs as folder structure has been changed.

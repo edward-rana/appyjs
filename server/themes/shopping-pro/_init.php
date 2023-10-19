@@ -1,1 +1,0 @@
-<?php if( !defined("BASE_DIR") ) die("Direct access not allowed");
