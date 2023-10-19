@@ -1,0 +1,20 @@
+{
+    "app_name": "AppyJS",
+    "app_url": "",
+    "server_url": "http://localhost:81/webapp/server",
+    "debug_mode": true,
+    "hashed_slug": true,
+    "version": "1.0.0",
+    "styles": [
+        "theme/assets/css/style.css",
+        ["theme/assets/css/bootstrap.min.css", "bootstrap", "5.3.2"],
+        ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css", "fontawesome", "4.7.0"]
+    ],
+    "scripts": [
+        "theme/assets/js/script.js",
+        ["theme/assets/js/bootstrap.min.js", "bootstrap", "5.3.2"],
+        ["theme/assets/js/jquery.min.js", "jquery", "3.7.1"]
+    ],
+    "body_class": "",
+    "append_body": ""
+}

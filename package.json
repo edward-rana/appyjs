@@ -1,0 +1,30 @@
+{
+    "name": "appyjs",
+    "version": "1.0.3",
+    "description": "Web, iOS, Android App development with pure HTML, CSS, Javascript & JQuery.",
+    "main": "node-system.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node node-system.js"
+    },
+    "keywords": [
+        "appyjs",
+        "js",
+        "app"
+    ],
+    "author": "Edward Rana <edward.rana6@gmail.com>",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edward-rana/appyjs.git"
+    },
+    "dependencies": {
+        "path": "",
+        "express": "^4.17.1",
+        "open": "^7.0.4",
+        "fs": "",
+        "chokidar": "",
+        "jsdom": "",
+        "jquery": "3.7.1"
+    }
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{site_title}}
+    {{styles}}
+</head>
+<body{{body_class}}>
+    <div id="app_root"></div>
+    {{append_body}}
+    <app_theme>
+        <app_page></app_page>
+    </app_theme>
+    {{scripts}}
+    <!-- Auto-loaded system scripts -->
+    <script src="{{asset_url}}system/config.js?v={{version}}"></script>
+    <script src="{{asset_url}}system/app.js?v={{version}}"></script>
+</body>
+</html>
